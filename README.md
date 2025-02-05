@@ -1,7 +1,23 @@
 # RETAIL PERFORMANCE REPORT
 ---
 ## Table of Content 
-
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Key Metrics and Findings](#key-metrics-and-findings)
+- [Data Analysis](#data-analysis)
+- [Sales Analysis by Category and Gender](#sales-analysis-by-category-and-gender)
+- [Key Findings](#key-findings)
+- [Regional Sales Performance](#regional-sales-performance)
+- [Key Findings](#key-findings)
+- [Store Sales Performance](#store-sales-performance)
+- [Key Findings](#key-findings)
+- [Sales Growth Trends](#sales-growth-trends)
+- [Key Findings](#key-findings)
+- [Sales Representative Performance](#sakes-representative-performance)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
 ---
 
 ## Project Overview
