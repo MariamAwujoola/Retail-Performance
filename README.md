@@ -15,7 +15,7 @@
 - [Key Findings](#key-findings)
 - [Sales Growth Trends](#sales-growth-trends)
 - [Key Findings](#key-findings)
-- [Sales Representative Performance](#sakes-representative-performance)
+- [Sales Representative Performance](#sales-representative-performance)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 ---
